@@ -1,0 +1,3 @@
+testando a idade
+testando o email
+testando a senha		
